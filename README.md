@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Bernardo!
-## estou aprendendo a programar a mais de um ano
+## estou aprendendo a programar a mais de um ano.
 
 
 ---
